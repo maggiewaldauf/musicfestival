@@ -2,7 +2,7 @@
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: #d3ebf5;;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
@@ -12,6 +12,7 @@
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 20px;
+
 }
 
 .input-group {
@@ -43,7 +44,7 @@
 }
 
 .event-item {
-    background: #f9f9f9;
+    background: #ffffff;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 10px;
@@ -56,7 +57,7 @@
 
 .event-link {
     text-decoration: none;
-    color: #007bff;
+    color: rgb(25, 70, 96);
     font-weight: bold;
 }
 

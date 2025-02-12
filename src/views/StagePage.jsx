@@ -16,7 +16,7 @@ export default function StagePage() {
     
     const { stageId } = useParams(); 
     const [searchTerm, setSearchTerm] = useState('');
-    const [selectedCategory, setSelectedCategory] = useState('all');
+    const [selectedCategory, setSelectedCategory] = useState('All');
 
     const events = stageevents.filter((event) => stageId === event.stageid);
     
